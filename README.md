@@ -34,15 +34,25 @@ Este projeto foi desenvolvido com o intuito de praticar conceitos de programaç�
 - **Sair** → Fecha o sistema.
 ```
 
-## Como Executar
-1. Certifique-se de ter o Java 21 instalado.
-2. Compile as classes:
+## 🚀 Como Executar
+1. Certifique-se de ter o **Java** instalado em seu computador.
+2. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+3. Navegue atá a pasta do projeto
     ```sh
-    javac -d bin src/**/*.java
+    cd lista-de-tarefas
     ```
-3. Execute a aplicação:
+4. Compile o código
     ```sh
-    java -cp bin App
+    javac App.java
+    ```
+5. Execute o programa:
+    ```sh
+    java App
     ```
 
-
+## 📝 Notas
+- O programa exibe um menu interativo para o usuário.
+- Para limpar o console, utilizamos um método que detecta o sistema operacional e executa os comandos apropriados.
