@@ -38,11 +38,11 @@ Este projeto foi desenvolvido com o intuito de praticar conceitos de programaç�
 1. Certifique-se de ter o **Java** instalado em seu computador.
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/josephDcostaR/Livraria.git
    ```
 3. Navegue atá a pasta do projeto
     ```sh
-    cd lista-de-tarefas
+    cd Livraria
     ```
 4. Compile o código
     ```sh
